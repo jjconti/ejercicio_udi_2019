@@ -2,12 +2,14 @@
 
 1. Crear grupos de dos personas. Cada equipo debe traducir la contratapa del libro a un idioma diferente (usar Google translate).
 
-2. Crear un branch llamado `{LANG}_translation` y crear el archivo con la traducción en `translations/contratapa_{LANG}.md`. Pushear los cambios (`git push`).
+2. Clonar el repositorio (`git clone`).
 
-3. Crear un pull request (PR).
+3. Crear un branch llamado `{LANG}_translation` y crear el archivo con la traducción en `translations/contratapa_{LANG}.md`. Pushear los cambios (`git push`).
 
-4. Pedirte al grupo de la derecha que lo revise.
+4. Crear un pull request (PR).
 
-5. Mergearemos el primero que haya terminado y luego todos los demas deberán actualizar sus branches (`git pull origin master`) y volver a pushearlos (`git push`) para actualizar los PRs.
+5. Pedirte al grupo de la derecha que lo revise.
 
-6. Luego de que todas las traducciones hayan sido mergeadas: ir a **Issues**, elegir un issue y asignarlo. Para completarlo usar el workflow anterior (branch -> pr -> review -> merge)
+6. Mergearemos el primero que haya terminado y luego todos los demas deberán actualizar sus branches (`git pull origin master`) y volver a pushearlos (`git push`) para actualizar los PRs.
+
+7. Luego de que todas las traducciones hayan sido mergeadas: ir a **Issues**, elegir un issue y asignarlo. Para completarlo usar el workflow anterior (branch -> pr -> review -> merge)
