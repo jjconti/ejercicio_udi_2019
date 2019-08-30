@@ -2,7 +2,7 @@
 
 1. Crear grupos de dos personas. Cada equipo debe traducir la contratapa del libro a un idioma diferente (usar Google translate).
 
-2. Clonar el repositorio (`git clone`).
+2. Clonar el repositorio (`git clone`). Ejecutar `gitk` para ver la historia de commits hasta el momento.
 
 3. Crear un branch llamado `{LANG}_translation` y crear el archivo con la traducción en `translations/contratapa_{LANG}.md`. Pushear los cambios (`git push`).
 
