@@ -1,6 +1,6 @@
 # ejercicio_udi_2019
 
-1. Crear grupos de dos personas. Cada equipo debe traducir la contratapa del libro a un idioma diferente.
+1. Crear grupos de dos personas. Cada equipo debe traducir la contratapa del libro a un idioma diferente (usar Google translate).
 
 2. Crear un branch llamado `{LANG}_translation` y crear el archivo con la traducción en `translations/contratapa_{LANG}.md`. Pushear los cambios (`git push`).
 
