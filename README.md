@@ -6,4 +6,4 @@
 
 3. Crear un pull request (PR).
 
-4. Mergearemos el primero que haya terminado y luego todos los demas deberán actualizar sus branches (`git pull origin staging`) y volver a pushearlos (`git push`) para actualizar los PRs.
+4. Mergearemos el primero que haya terminado y luego todos los demas deberán actualizar sus branches (`git pull origin master`) y volver a pushearlos (`git push`) para actualizar los PRs.
