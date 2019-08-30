@@ -15,5 +15,4 @@
 7. Luego de que todas las	 traducciones hayan sido mergeadas: ir a **Issues**, elegir un issue y asignarlo. Para completarlo usar el workflow anterior (branch -> pr -> review -> merge)
 
 
-Las iteraciones fue editado por Contramar en 2019. Más información: 
-[CONTAMAR](http://www.contramar.org/index.php/catalogo/narrativa/las-iteraciones/)
+Las iteraciones fue editado por [Contramar](http://www.contramar.org/index.php/catalogo/narrativa/las-iteraciones/) en 2019. Más información: http://www.contramar.org/index.php/catalogo/narrativa/las-iteraciones/
