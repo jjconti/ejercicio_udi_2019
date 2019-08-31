@@ -7,8 +7,8 @@ I ka wā e hiki mai ana i ka wā e hiki mai ana, ke utopia o ka huakaʻi i ka w�
 
 Hōʻailona ka manaʻo o *Stix* a me kāna mau hoa i nā heerations pōʻino e hiki ke hoʻololi i nā mea āpau, a i ka manawa like, e hoʻomaʻamaʻa i ka manaʻo ʻana he manawa nui ia, he loiloi mea ʻole no ka ʻike kanaka.
 
-I nā iterations, ua mālama ʻo *Juanjo Conti* iā mākou i kahi manawa kūpono e hiki mai ana i ka wā e hiki mai ana iā mākou me ka melankoly hou, nā moʻolelo aloha, nā ʻūhā kahiko, nā mea huna a me nā hua poina ʻole e waiho mau i ka mana o ko mākou hoʻomanaʻo.*
+I nā iterations, ua mālama ʻo *Juanjo Conti* iā mākou i kahi manawa kūpono e hiki mai ana i ka wā e hiki mai ana iā mākou me ka melankoly hou, nā moʻolelo aloha, nā ʻūhā kahiko, nā mea huna a me nā hua poina ʻole e waiho mau i ka mana o ko mākou hoʻomanaʻo.
 
-Mariano Pereyra Esteban*
+*Mariano Pereyra Esteban*
 
 Mea kākau o *Vayasí* (*Contramar*, 2018)

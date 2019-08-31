@@ -7,8 +7,8 @@ Um grupo de hackers antigos e românticos do século XX vende suas habilidades par
 
 As aventuras de *Stix* e seus companheiros produzem iterações perigosas que podem modificar tudo e, ao mesmo tempo, renovar a suspeita de que o tempo é um loop enorme, de lógica imbatível para a inteligência humana.
 
-Nas iterações, *Juanjo Conti* nos leva a um bom ritmo para um futuro que nos surpreende com nova melancolia, histórias de amor, velhos ódios, segredos latentes e personagens inesquecíveis que permanecerão no emaranhado de nossa memória.*
+Nas iterações, *Juanjo Conti* nos leva a um bom ritmo para um futuro que nos surpreende com nova melancolia, histórias de amor, velhos ódios, segredos latentes e personagens inesquecíveis que permanecerão no emaranhado de nossa memória.
 
-Mariano Pereyra Esteban*
+*Mariano Pereyra Esteban*
 
  Autor de *Vayasí* (*Contramar*, 2018)

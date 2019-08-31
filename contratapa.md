@@ -7,8 +7,8 @@ Un grupo de viejos, hackers románticos del siglo XX, vende sus habilidades para
 
 Las aventuras de *Stix* y sus compañeros producen peligrosas iteraciones que pueden modificarlo todo, y a la vez, renuevan la sospecha de que el tiempo es un enorme bucle, de lógica inabarcable para la inteligencia humana.
 
-En Las iteraciones, *Juanjo Conti* nos lleva a buen ritmo por un futuro que nos sorprende con nuevas melancolías, historias de amor, odios añejos, secretos latentes y personajes inolvidables que subsistirán en el enredo de nuestra memoria. *
+En Las iteraciones, *Juanjo Conti* nos lleva a buen ritmo por un futuro que nos sorprende con nuevas melancolías, historias de amor, odios añejos, secretos latentes y personajes inolvidables que subsistirán en el enredo de nuestra memoria.
 
-Mariano Pereyra Esteban
+*Mariano Pereyra Esteban*
 
-* Autor de *Vayasí* (*Contramar*, 2018)
+Autor de *Vayasí* (*Contramar*, 2018)
