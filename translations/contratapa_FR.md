@@ -1,14 +1,15 @@
-Les itérations
+Les itÃ©rations
 ==============
 
-Dans un avenir palpable, l'utopie du voyage dans le passé est une possibilité accessible, mais bureaucratisée, restreinte et soumise à des contrôles stricts. Il a été dénigré à une expérience touristique.
+Dans un avenir palpable, l'utopie du **voyage dans le passÃ©** est une possibilitÃ© accessible, mais bureaucratisÃ©e, restreinte et soumise Ã  des contrÃ´les stricts. Il a Ã©tÃ© dÃ©nigrÃ© Ã  une expÃ©rience touristique.
 
-Un groupe de vieux **pirates romantiques** du XXe siècle vend ses compétences pour acheter des heures qui lui permettent de résoudre à nouveau des problèmes inachevés. Sa programmation est devenue indétectable pour les nouveaux **systèmes numériques** et ils se déplacent à travers les catacombes oubliées du code.
+Un groupe de vieux **pirates romantiques** du XXe siÃ¨cle vend ses compÃ©tences pour acheter des heures qui lui permettent de rÃ©soudre Ã  nouveau des problÃ¨mes inachevÃ©s. Sa programmation est devenue indÃ©tectable pour les nouveaux **systÃ¨mes numÃ©riques** et ils se dÃ©placent Ã  travers les catacombes oubliÃ©es du code.
 
-Les aventures de *Stix* et de ses compagnons produisent de dangereuses itérations qui peuvent tout modifier, tout en renouvelant la suspicion selon laquelle le temps est une énorme boucle de logique imbattable pour l'intelligence humaine.
+Les aventures de *Stix* et de ses compagnons produisent de **dangereuses itÃ©rations** qui peuvent tout modifier, tout en renouvelant la suspicion selon laquelle le temps est une Ã©norme boucle de logique imbattable pour l'intelligence humaine.
 
-Dans Les itérations, *Juanjo Conti* nous emmène à un bon rythme pour un avenir qui nous surprend avec une nouvelle mélancolie, des histoires d'amour, des vieilles haines, des secrets latents et des personnages inoubliables qui resteront dans l'enchevêtrement de notre mémoire.
+Dans Les itÃ©rations, *Juanjo Conti* nous emmÃ¨ne Ã  un bon rythme pour un avenir qui nous surprend avec une nouvelle mÃ©lancolie, des histoires d'amour, des vieilles haines, des secrets latents et des personnages inoubliables qui resteront dans l'enchevÃªtrement de notre mÃ©moire.
 
 *Mariano Pereyra Esteban*
 
-Auteur de *Vayasí* (*Contramar*, 2018)
+Auteur de * VayasÃ­ * (* Contramar *, 2018)
+
