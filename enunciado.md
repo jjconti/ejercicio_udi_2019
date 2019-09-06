@@ -10,8 +10,6 @@
 
 5.Pedirte al grupo de la derecha que lo revise.
 
-OAOAOA
-
 6.Mergearemos el primero que haya terminado y luego todos los demas deberán actualizar sus branches (git pull origin master) y volver a pushearlos (git push) para actualizar los PRs.
 
 7.Luego de que todas las traducciones hayan sido mergeadas: ir a Issues, elegir un issue y asignarlo. Para completarlo usar el workflow anterior (branch -> pr -> review -> merge)
