@@ -1,7 +1,7 @@
 ITERASJONENE
 ============
 
-I en følbar fremtid er utopien av turen til fortiden en tilgjengelig mulighet, men byråkratisert, begrenset og med strenge kontroller. Det har blitt denigrert til en turistopplevelse.
+I a en følbar fremtid er utopien av turen til fortiden en tilgjengelig mulighet, men byråkratisert, begrenset og med strenge kontroller. Det har blitt denigrert til en turistopplevelse.
 
 En gruppe gamle, romantiske hackere fra det tjuende århundre selger ferdighetene sine til å kjøpe timer som lar ham løse uferdige forretninger igjen. Programmeringen har blitt uoppdagelig for de nye digitale systemene, og de beveger seg gjennom kodens glemte katakomber.
 
