@@ -7,8 +7,8 @@ Un groupe de vieux **pirates romantiques** du XXe siècle vend ses compétences po
 
 Les aventures de *Stix* et de ses compagnons produisent de dangereuses itérations qui peuvent tout modifier, tout en renouvelant la suspicion selon laquelle le temps est une énorme boucle de logique imbattable pour l'intelligence humaine.
 
-Dans Les itérations, * Juanjo Conti * nous emmène à un bon rythme pour un avenir qui nous surprend avec une nouvelle mélancolie, des histoires d'amour, des vieilles haines, des secrets latents et des personnages inoubliables qui resteront dans l'enchevêtrement de notre mémoire.
+Dans Les itérations, *Juanjo Conti* nous emmène à un bon rythme pour un avenir qui nous surprend avec une nouvelle mélancolie, des histoires d'amour, des vieilles haines, des secrets latents et des personnages inoubliables qui resteront dans l'enchevêtrement de notre mémoire.
 
-* Mariano Pereyra Esteban *
+*Mariano Pereyra Esteban*
 
-Auteur de * Vayasí * (* Contramar *, 2018)
+Auteur de *Vayasí* (*Contramar*, 2018)
