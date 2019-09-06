@@ -13,6 +13,6 @@
 6. Mergearemos el primero que haya terminado y luego todos los demas deberán actualizar sus branches (`git pull origin master`) y volver a pushearlos (`git push`) para actualizar los PRs.
 
 7. Luego de que todas las traducciones hayan sido mergeadas: ir a **Issues**, elegir un issue y asignarlo. Para completarlo usar el workflow anterior (branch -> pr -> review -> merge)
-![las-iteraciones](las-iteraciones.jpg "las-iteraciones")
+![las-iteraciones]<p align="center">(las-iteraciones.jpg "las-iteraciones")</p>
 
 Las iteraciones fue editado por [Contramar](http://www.contramar.org/) en 2019. Más información: http://www.contramar.org/index.php/catalogo/narrativa/las-iteraciones/
